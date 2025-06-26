@@ -1,30 +1,75 @@
 # Budget_final_poe
-BudgetGood is a simple yet powerful personal finance management app designed to help you take control of your money with ease. Whether you’re saving for a goal, tracking expenses, or managing rewards, BudgetGood gives you the tools to stay organized and financially confident.
+GoodBudget App
+Overview
+GoodBudget is a simple and powerful personal finance management app. It helps users track their spending, manage budgets, save money, and monitor rewards—all in one place. GoodBudget gives you the tools to stay organized and financially confident.
 
- New Features 
+Featureson the app 
+1.	User Authentication:
+•	Create an account securely.
 
-Login Button on the "Create Account" Page: Users can now directly log in from the account creation screen. 
+•	Login with your credentials to access your data.
 
-Saving Fragment: Allows users to track and manage their savings. 
+2.	Dashboard:
+•	Once logged in, the dashboard provides access to:
 
-Rewards Fragment: Displays earned rewards based on budgeting performance. 
+•	Expenses – Track your daily expenses.
 
-Badge: Users are awarded badges for reaching certain milestones (e.g., saving goals, spending less, logging in frequently). 
+•	Categories – Organize expenses into meaningful groups.
+
+•	Budget – Set spending limits and stay on track.
+
+•	Savings – Monitor and manage your savings goals.
+
+•	Rewards – Earn and view rewards for good financial habits.
+
+How to Use
+1.	Create an Account:
+•	Sign up with your name, email, and password.
+2.	Login:
+•	Use your credentials to log in.
+3.	Navigate to Dashboard:
+     After logging in, the dashboard opens with 5 main sections:
+•	Expenses
+
+•	Categories
+
+•	Budget
+
+•	Savings
+
+•	Rewards
+
+Manage Your Finances:
+•	Add and track expenses.
+
+•	Categorize spending.
+
+•	Set and adjust budget limits.
+
+•	Monitor your savings progress.
+
+•	View earned rewards for achieving goals.
+
+ Built With
+•	Kotlin – Android App Development
+
+•	Room Database – Local data storage
+
+•	ViewModel + LiveData – For smooth UI and data updates
+
+•	RecyclerView – Displaying lists of items
+
+•	Material Design Components – Modern and intuitive UI
+
+ Installation
+1.	Open in Android Studio.
+2.	Clone the repository: https://github.com/Noeela/Budget_final_poe
+3.	Run the app on an emulator or Android device.
+
+Credits
+Developed by Neo Makubetse, Palesa Cindi, Uzizipho Nyangame, Zandile Mnisi
+ We were inspired by the need for simple, effective budget management.
+
+License
+This project is licensed under the MIT License – feel free to use and modify.
  
-Getting Started 
-
-Follow these steps to set up and run the app on your local machine: 
-
-Prerequisites 
-
-Android Studio Hedgehog (2023.1.X) or later 
-
-Android SDK 33 or above 
-
-A physical Android device or emulator running Android 8.0 (API level 26) or higher 
-
-Installation 
-
-Clone the repository  
-
-Our Github link :  
