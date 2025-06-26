@@ -67,7 +67,7 @@ Manage Your Finances:
 3.	Run the app on an emulator or Android device.
 
 Credits
-Developed by Neo Makubetse, Palesa Cindi, Uzizipho Nyangame, Zandile Mnisi
+Developed by Neo Makubetse, Palesa Cindi, Uzizipho Nyangane, Zandile Mnisi
  We were inspired by the need for simple, effective budget management.
 
 License
